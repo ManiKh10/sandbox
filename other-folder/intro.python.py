@@ -1,1 +1,0 @@
-print('Mani is cool')
